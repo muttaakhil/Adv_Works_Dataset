@@ -50,7 +50,8 @@ o	External Tables
 •	Business insights 
 
 Cloud Services Used:
-	1. Azure Data Factory (Integration Platform as a Service - iPaaS)
+	
+1. Azure Data Factory (Integration Platform as a Service - iPaaS)
 1.1 Orchestrates end-to-end data pipeline workflows.
 1.2 Ingests data from APIs, GitHub, and Kaggle datasets into Azure Data Lake.
 1.3 Automates ETL processes using pipelines, triggers, and scheduling.
