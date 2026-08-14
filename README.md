@@ -84,4 +84,4 @@ Cloud Services Used:
 6.2 Creates dashboards and KPIs from Gold layer data.
 6.3 Enables interactive data analysis and business insights.
    <img width="1128" height="618" alt="image" src="https://github.com/user-attachments/assets/83c58cb5-a83b-461f-b79d-f0d9d2940e55" />
-
+   <img width="1109" height="618" alt="image" src="https://github.com/user-attachments/assets/1c91b687-9c0a-460b-8ee2-7875da433209" />
